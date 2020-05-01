@@ -1,0 +1,256 @@
+<TimeLine>
+<Properties Count="68">
+<Property key="Absolute.FilePath" type="std::wstring" value="C:/Users/PrashanthKommana/Desktop/videos/MOV00910.AVI"/>
+<Property key="Animation.InRatio" type="double" value="0.000000"/>
+<Property key="Animation.OutRatio" type="double" value="0.000000"/>
+<Property key="Animation.StringParam" type="std::wstring" value=""/>
+<Property key="Animation.Type" type="int" value="0"/>
+<Property key="Composition.Enabled" type="int" value="1"/>
+<Property key="Composition.Mode" type="int" value="0"/>
+<Property key="Composition.Opacity" type="int" value="255"/>
+<Property key="Crop.Enabled" type="int" value="0"/>
+<Property key="Crop.Region" type="NLERectF" value="left:0.00000000000000000000, top:0.00000000000000000000, width:1.00000000000000000000, height:1.00000000000000000000"/>
+<Property key="Denoise.Enabled" type="int" value="0"/>
+<Property key="Denoise.Level" type="int" value="0"/>
+<Property key="Equalizer.Band1" type="double" value="0.000000"/>
+<Property key="Equalizer.Band2" type="double" value="0.000000"/>
+<Property key="Equalizer.Band3" type="double" value="0.000000"/>
+<Property key="Equalizer.Band4" type="double" value="0.000000"/>
+<Property key="Equalizer.Band5" type="double" value="0.000000"/>
+<Property key="Equalizer.Band6" type="double" value="0.000000"/>
+<Property key="Equalizer.Band7" type="double" value="0.000000"/>
+<Property key="Equalizer.Band8" type="double" value="0.000000"/>
+<Property key="Equalizer.Enabled" type="int" value="0"/>
+<Property key="Equalizer.HS" type="double" value="0.000000"/>
+<Property key="Equalizer.Name" type="std::wstring" value="Default"/>
+<Property key="Equalizer.kLS" type="double" value="0.000000"/>
+<Property key="Level" type="int" value="-1"/>
+<Property key="MediaInfo" type="CNLEPtr&lt;IUnknown&gt;" value="Interface:0000000000000000">
+<Properties Count="12">
+<Property key="Absolute.FilePath" type="std::wstring" value="C:/Users/PrashanthKommana/Desktop/videos/MOV00910.AVI"/>
+<Property key="Source_FileType" type="int" value="1"/>
+<Property key="kAudio_Disable" type="int" value="0"/>
+<Property key="kCodec_FourCC" type="unsigned int" value="4806209"/>
+<Property key="kMedia.Info.MediaLength" type="double" value="10.244000"/>
+<Property key="kMedia.Info.SerializedString" type="std::wstring" value="{
+	&quot;MediaInfo&quot;:	{
+		&quot;FileCreateData&quot;:	&quot;2013:2:11:3:12:0,2020:3:22:6:5:0\n&quot;,
+		&quot;FOURCC&quot;:	&quot;4806209&quot;,
+		&quot;FileName&quot;:	&quot;&quot;,
+		&quot;Description&quot;:	&quot;&quot;,
+		&quot;MediaLength&quot;:	&quot;10244&quot;,
+		&quot;Bitrate&quot;:	&quot;9287238&quot;,
+		&quot;AVScanType&quot;:	&quot;2&quot;,
+		&quot;ProgramCount&quot;:	&quot;1&quot;,
+		&quot;ProgramInfos&quot;:	[{
+				&quot;Number&quot;:	&quot;1&quot;,
+				&quot;ID&quot;:	&quot;1&quot;,
+				&quot;MediaLength&quot;:	&quot;10244&quot;,
+				&quot;Bitrate&quot;:	&quot;9287238&quot;,
+				&quot;TimeStampReferenceStreamID&quot;:	&quot;0&quot;,
+				&quot;VideoStreamCount&quot;:	&quot;1&quot;,
+				&quot;VideoStreamInfos&quot;:	[{
+						&quot;StreamType&quot;:	&quot;2&quot;,
+						&quot;StreamID&quot;:	&quot;0&quot;,
+						&quot;FourCC&quot;:	&quot;1195724874&quot;,
+						&quot;State&quot;:	&quot;0&quot;,
+						&quot;Name&quot;:	&quot;JPEG&quot;,
+						&quot;Description&quot;:	&quot;MJPEG&quot;,
+						&quot;StreamLength&quot;:	&quot;10244&quot;,
+						&quot;Bitrate&quot;:	&quot;9199038&quot;,
+						&quot;VideoInfo&quot;:	{
+							&quot;Width&quot;:	&quot;640&quot;,
+							&quot;Height&quot;:	&quot;480&quot;,
+							&quot;FrameRate&quot;:	&quot;29970&quot;,
+							&quot;TotalFrame&quot;:	&quot;307&quot;,
+							&quot;xratio&quot;:	&quot;0&quot;,
+							&quot;yratio&quot;:	&quot;0&quot;,
+							&quot;Compression&quot;:	&quot;842094169&quot;,
+							&quot;BitsDepth&quot;:	&quot;24&quot;,
+							&quot;CapsFlag&quot;:	&quot;0&quot;,
+							&quot;ColorRange&quot;:	&quot;0&quot;,
+							&quot;ColorPrimary&quot;:	&quot;0&quot;
+						},
+						&quot;VideoSrcInfo&quot;:	{
+							&quot;StreamSrcInfoScanType&quot;:	&quot;0&quot;,
+							&quot;StreamSrcInfoSrcScanType&quot;:	&quot;0&quot;,
+							&quot;StreamSrcInfoSrcRotate&quot;:	&quot;0&quot;,
+							&quot;VideoInfo&quot;:	{
+								&quot;Width&quot;:	&quot;640&quot;,
+								&quot;Height&quot;:	&quot;480&quot;,
+								&quot;FrameRate&quot;:	&quot;29970&quot;,
+								&quot;TotalFrame&quot;:	&quot;307&quot;,
+								&quot;xratio&quot;:	&quot;4000&quot;,
+								&quot;yratio&quot;:	&quot;3000&quot;,
+								&quot;Compression&quot;:	&quot;842094169&quot;,
+								&quot;BitsDepth&quot;:	&quot;24&quot;,
+								&quot;CapsFlag&quot;:	&quot;0&quot;,
+								&quot;ColorRange&quot;:	&quot;0&quot;,
+								&quot;ColorPrimary&quot;:	&quot;0&quot;
+							}
+						},
+						&quot;AudioInfo&quot;:	{
+							&quot;SampleRate&quot;:	&quot;0&quot;,
+							&quot;Channels&quot;:	&quot;0&quot;,
+							&quot;Bitspersample&quot;:	&quot;0&quot;,
+							&quot;Bytespersecond&quot;:	&quot;0&quot;,
+							&quot;Length&quot;:	&quot;0&quot;,
+							&quot;CapsFlag&quot;:	&quot;0&quot;
+						},
+						&quot;ptsStart&quot;:	&quot;0&quot;,
+						&quot;ptsOffset&quot;:	&quot;0&quot;
+					}],
+				&quot;AudioStreamCount&quot;:	&quot;1&quot;,
+				&quot;AudioStreamInfos&quot;:	[{
+						&quot;StreamType&quot;:	&quot;3&quot;,
+						&quot;StreamID&quot;:	&quot;1&quot;,
+						&quot;FourCC&quot;:	&quot;1296257089&quot;,
+						&quot;State&quot;:	&quot;0&quot;,
+						&quot;Name&quot;:	&quot;APCM&quot;,
+						&quot;Description&quot;:	&quot;uLaw&quot;,
+						&quot;StreamLength&quot;:	&quot;10243&quot;,
+						&quot;Bitrate&quot;:	&quot;88200&quot;,
+						&quot;VideoInfo&quot;:	{
+							&quot;Width&quot;:	&quot;0&quot;,
+							&quot;Height&quot;:	&quot;0&quot;,
+							&quot;FrameRate&quot;:	&quot;0&quot;,
+							&quot;TotalFrame&quot;:	&quot;0&quot;,
+							&quot;xratio&quot;:	&quot;0&quot;,
+							&quot;yratio&quot;:	&quot;0&quot;,
+							&quot;Compression&quot;:	&quot;0&quot;,
+							&quot;BitsDepth&quot;:	&quot;0&quot;,
+							&quot;CapsFlag&quot;:	&quot;0&quot;,
+							&quot;ColorRange&quot;:	&quot;0&quot;,
+							&quot;ColorPrimary&quot;:	&quot;0&quot;
+						},
+						&quot;VideoSrcInfo&quot;:	{
+							&quot;StreamSrcInfoScanType&quot;:	&quot;0&quot;,
+							&quot;StreamSrcInfoSrcScanType&quot;:	&quot;0&quot;,
+							&quot;StreamSrcInfoSrcRotate&quot;:	&quot;0&quot;,
+							&quot;VideoInfo&quot;:	{
+								&quot;Width&quot;:	&quot;0&quot;,
+								&quot;Height&quot;:	&quot;0&quot;,
+								&quot;FrameRate&quot;:	&quot;0&quot;,
+								&quot;TotalFrame&quot;:	&quot;0&quot;,
+								&quot;xratio&quot;:	&quot;0&quot;,
+								&quot;yratio&quot;:	&quot;0&quot;,
+								&quot;Compression&quot;:	&quot;0&quot;,
+								&quot;BitsDepth&quot;:	&quot;0&quot;,
+								&quot;CapsFlag&quot;:	&quot;0&quot;,
+								&quot;ColorRange&quot;:	&quot;0&quot;,
+								&quot;ColorPrimary&quot;:	&quot;0&quot;
+							}
+						},
+						&quot;AudioInfo&quot;:	{
+							&quot;SampleRate&quot;:	&quot;11025&quot;,
+							&quot;Channels&quot;:	&quot;1&quot;,
+							&quot;Bitspersample&quot;:	&quot;16&quot;,
+							&quot;Bytespersecond&quot;:	&quot;11025&quot;,
+							&quot;Length&quot;:	&quot;10243&quot;,
+							&quot;CapsFlag&quot;:	&quot;0&quot;
+						},
+						&quot;ptsStart&quot;:	&quot;0&quot;,
+						&quot;ptsOffset&quot;:	&quot;0&quot;
+					}],
+				&quot;SubPicStreamCount&quot;:	&quot;0&quot;,
+				&quot;SubPicInfos&quot;:	[]
+			}]
+	}
+}"/>
+<Property key="kMedia.Info.SerializedStringSize" type="int" value="3012"/>
+<Property key="kSource.StreamCount" type="int" value="2"/>
+<Property key="kSource.Stream_0" type="CNLEPtr&lt;IUnknown&gt;" value="Interface:0000000000000000">
+<Properties Count="16">
+<Property key="kStream_Type" type="int" value="2"/>
+<Property key="kVideo_Bitrate" type="int" value="9199038"/>
+<Property key="kVideo_BitsDepth" type="int" value="24"/>
+<Property key="kVideo_CapsFlag" type="unsigned int" value="0"/>
+<Property key="kVideo_Compression" type="unsigned int" value="842094169"/>
+<Property key="kVideo_Description" type="std::wstring" value="MJPEG"/>
+<Property key="kVideo_Disable" type="int" value="0"/>
+<Property key="kVideo_Duration" type="long long" value="102440004"/>
+<Property key="kVideo_FourCC" type="unsigned int" value="1195724874"/>
+<Property key="kVideo_FrameRate" type="double" value="29.970000"/>
+<Property key="kVideo_Height" type="int" value="480"/>
+<Property key="kVideo_ID" type="unsigned int" value="0"/>
+<Property key="kVideo_Name" type="std::wstring" value="JPEG"/>
+<Property key="kVideo_State" type="int" value="0"/>
+<Property key="kVideo_TotalFrames" type="int" value="307"/>
+<Property key="kVideo_Width" type="int" value="640"/>
+</Properties>
+</Property>
+<Property key="kSource.Stream_1" type="CNLEPtr&lt;IUnknown&gt;" value="Interface:0000000000000000">
+<Properties Count="15">
+<Property key="Source_ScreenRecordingStreamType" type="unsigned int" value="0"/>
+<Property key="kAduio_CapsFlag" type="unsigned int" value="0"/>
+<Property key="kAudio_Bitrate" type="int" value="88200"/>
+<Property key="kAudio_BitsPerSample" type="int" value="16"/>
+<Property key="kAudio_BytesPerSecond" type="int" value="22050"/>
+<Property key="kAudio_Channels" type="int" value="1"/>
+<Property key="kAudio_Description" type="std::wstring" value="uLaw"/>
+<Property key="kAudio_Disable" type="int" value="0"/>
+<Property key="kAudio_Duration" type="long long" value="102430000"/>
+<Property key="kAudio_FourCC" type="unsigned int" value="1296257089"/>
+<Property key="kAudio_ID" type="unsigned int" value="1"/>
+<Property key="kAudio_Name" type="std::wstring" value="APCM"/>
+<Property key="kAudio_SampleRate" type="int" value="11025"/>
+<Property key="kAudio_State" type="int" value="0"/>
+<Property key="kStream_Type" type="int" value="3"/>
+</Properties>
+</Property>
+<Property key="kStream_ProgramID" type="int" value="1"/>
+<Property key="kVideo_Disable" type="int" value="0"/>
+</Properties>
+</Property>
+<Property key="Mix2Mono.Enabled" type="int" value="0"/>
+<Property key="ProxySource.Enable" type="int" value="0"/>
+<Property key="ProxySource.ProxyFile.path" type="std::wstring" value=""/>
+<Property key="REFCLSID" type="GUID" value="{FC850F8E-F304-4E87-A00C-9A43291D317F}"/>
+<Property key="Render.ContentRange" type="NLERange" value="Start:0, End:306"/>
+<Property key="Render.Framerate" type="NLERational" value="[29969999, 1000000]: 29.9699990 "/>
+<Property key="Render.MarginMode" type="int" value="1"/>
+<Property key="Render.NeedPremult" type="int" value="0"/>
+<Property key="Render.Position" type="int" value="0"/>
+<Property key="Render.RangeFrameNumber" type="NLERange" value="Start:0, End:306"/>
+<Property key="Render.RationPosition" type="NLERational" value="[0, 1]: 0.0000000 "/>
+<Property key="SourceRender_CurrentAudioStreamIndex" type="int" value="1"/>
+<Property key="SourceRender_CurrentVideoStreamIndex" type="int" value="0"/>
+<Property key="Source_FileType" type="int" value="1"/>
+<Property key="Stabilization.Enabled" type="int" value="0"/>
+<Property key="Stabilization.Level" type="int" value="10"/>
+<Property key="Timeline.SpeedMarker" type="std::wstring" value="{&quot;fr.den&quot;:1000000,&quot;fr.num&quot;:29969999,&quot;nodes&quot;:[{&quot;audio.pitch&quot;:1,&quot;freeze&quot;:0,&quot;guid&quot;:&quot;A674C411-B757-4580-8854-324C6B4F680D&quot;,&quot;inter.mode&quot;:0,&quot;len&quot;:10.24357725203795,&quot;re.begin&quot;:10.24357725203795,&quot;re.eend&quot;:0,&quot;reverse&quot;:0,&quot;rewind.host&quot;:0,&quot;rewind.index&quot;:0,&quot;rr.b&quot;:0,&quot;rr.c&quot;:10.24357725203795,&quot;rr.end&quot;:306,&quot;rr.start&quot;:0,&quot;speed.den&quot;:1,&quot;speed.num&quot;:1,&quot;sr.end&quot;:306,&quot;sr.start&quot;:0,&quot;time&quot;:0}],&quot;source.len&quot;:10.24357725203795,&quot;trim.guid.end&quot;:&quot;A674C411-B757-4580-8854-324C6B4F680D&quot;,&quot;trim.guid.start&quot;:&quot;A674C411-B757-4580-8854-324C6B4F680D&quot;,&quot;trim.sr.end&quot;:10.24357725203795,&quot;trim.sr.start&quot;:0}
+"/>
+<Property key="TimelineType" type="int" value="4"/>
+<Property key="Transform.Angle" type="double" value="0.000000"/>
+<Property key="Transform.CenterPoint" type="NLEPointF" value="x:0.50000000000000000000, y:0.50000000000000000000"/>
+<Property key="Transform.Enabled" type="int" value="1"/>
+<Property key="Transform.Locked" type="int" value="0"/>
+<Property key="Transform.LockedTransform" type="int" value="0"/>
+<Property key="Transform.ResizeScale" type="NLEPointF" value="x:1.00000000000000000000, y:1.00000000000000000000"/>
+<Property key="Transform.ShowTransform" type="int" value="1"/>
+<Property key="UserData" type="CNLEPtr&lt;IUnknown&gt;" value="Interface:0000000000000000">
+<Properties Count="4">
+<Property key="Key_AncestralGuid" type="std::wstring" value="{673b4c5e-3a44-47a7-8ad3-6924da73154e}"/>
+<Property key="Key_TimelineGuid" type="std::wstring" value="{8bc89f1a-4e42-4e2f-b963-0561a9536ac5}"/>
+<Property key="key_timeline_resource_info" type="std::wstring" value="{&quot;download_url&quot;:&quot;C:/Users/PrashanthKommana/Desktop/videos/MOV00910.AVI&quot;,&quot;name&quot;:&quot;MOV00910&quot;}"/>
+<Property key="key_timeline_type" type="std::wstring" value="3"/>
+</Properties>
+</Property>
+<Property key="ViewEdit.Status.Using" type="int" value="1"/>
+<Property key="Volume.Balance" type="int" value="0"/>
+<Property key="Volume.Enabled" type="int" value="1"/>
+<Property key="Volume.Mute" type="int" value="0"/>
+<Property key="Volume.Pitch" type="int" value="0"/>
+<Property key="Volume.Volume" type="double" value="0.000000"/>
+<Property key="base.Enable" type="int" value="1"/>
+<Property key="fade.aud.in.enabled" type="int" value="0"/>
+<Property key="fade.aud.in.range" type="int" value="0"/>
+<Property key="fade.aud.out.enabled" type="int" value="0"/>
+<Property key="fade.aud.out.range" type="int" value="0"/>
+<Property key="fade.aud.renderframerate" type="NLERational" value="[25, 1]: 25.0000000 "/>
+<Property key="time.position.end" type="NLERational" value="[307000000, 29969999]: 10.2435773 "/>
+<Property key="time.position.start" type="NLERational" value="[0, 1]: 0.0000000 "/>
+<Property key="time.trim.start" type="NLERational" value="[0, 1]: 0.0000000 "/>
+<Property key="z.Alias" type="std::wstring" value=""/>
+</Properties>
+</TimeLine>

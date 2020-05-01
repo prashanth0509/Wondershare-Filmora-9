@@ -1,0 +1,23 @@
+{
+    "document_animation_type": 0,
+    "document_create_date": "2020-03-22 12:00:21.000",
+    "document_create_version": "9.3.7.1",
+    "document_default_animation": "",
+    "document_duration": 3877,
+    "document_framerate": 25,
+    "document_modify_date": "2020-03-22 13:10:18.000",
+    "document_name": "proj",
+    "document_new_version": "9.3.7.1",
+    "document_project_archive": false,
+    "document_project_guid": "598acb4b-03ea-46c5-889d-3f4d5653ad12",
+    "document_size": {
+        "height": 1080,
+        "width": 1920
+    },
+    "document_type_name": "wfp",
+    "document_used_pack_name": [
+    ],
+    "doucment_play_quality": 1,
+    "doucment_play_safe_zone": false,
+    "doucment_play_zoom_level": 0
+}
